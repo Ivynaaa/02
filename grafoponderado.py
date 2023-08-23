@@ -4,6 +4,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 import tkinter as tk
 from tkinter import messagebox
+import random
 
 class GrafoPonderado:
     def __init__(self):
@@ -216,8 +217,34 @@ class GrafoPonderado:
         central_node = max(betweenness_scores, key=betweenness_scores.get)        
         plt.figure(figsize=(10, 6))  
         pos = nx.spring_layout(grafo_novo)
-        nx.draw_networkx(grafo_novo, pos, with_labels=True, font_size=5, node_size=100)     
+        nx.draw_networkx(grafo_novo, pos, with_labels=True, font_size=5, node_size=100) 
+
+        # Criando um dicionário de cores para partidos
+        unique_parties = list(set(nx.get_node_attributes(grafo_novo, 'partido').values()))
+        color_map = {party: f'#{random.randint(0, 0xFFFFFF):06x}' for party in unique_parties}
+        
+        node_colors = [color_map.get(grafo_novo.nodes[node].get('partido', 'default'), '#FFFFFF') for node in grafo_novo.nodes]
+        labels = {}
+        for node in grafo_novo.nodes:
+            partido = grafo_novo.nodes[node].get('partido')
+            if partido:
+                labels[node] = f"{node}\n({partido})"
+            else:
+                labels[node] = node
+        
+        nx.draw_networkx(grafo_novo, pos, with_labels=False, font_size=5, node_size=100, node_color=node_colors)
         nx.draw_networkx_nodes(grafo_novo, pos, nodelist=[central_node], node_color='red', node_size=150)
+        nx.draw_networkx_labels(grafo_novo, pos, labels=labels, font_size=5)
+        
+        # Adicionando o central_node à legenda de partidos
+        central_party = grafo_novo.nodes[central_node].get('partido', 'Desconhecido')
+        handles = [plt.Line2D([], [], marker='o', color='w', markerfacecolor=color, markersize=10, label=f"{party} ({party if party != central_party else 'Central'})") for party, color in color_map.items()]
+        
+        # Adicionando uma entrada na legenda para o central_node
+        handles.append(plt.Line2D([], [], marker='o', color='w', markerfacecolor='red', markersize=10, label=f"Central ({central_party})"))
+        
+        plt.legend(handles=handles, title='Partidos', loc='upper left')
+        
         plt.title(f'Grafo de Relações de Votos entre Deputados com Ponto Central Marcado')
         plt.tight_layout() 
         plt.savefig(grafo_output_filename)
@@ -290,7 +317,6 @@ class GrafoPonderado:
     #             arquivo_saida.write(f"{dep1};{dep2} {weight:.3f}\n")
 
   ############################### INTERFACE GRÁFICA ##########################################  
-
 
 anos = list(range(2002, 2024))
 

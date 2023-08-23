@@ -1,0 +1,1242 @@
+Ana Corso;Arlindo Chinaglia 1.000
+Ana Corso;Avenzoar Arruda 1.000
+Ana Corso;Carlito Merss 1.000
+Ana Corso;Dr. Rosinha 1.000
+Ana Corso;Esther Grossi 1.000
+Ana Corso;Fernando Ferro 1.000
+Ana Corso;Fioravante 1.000
+Ana Corso;Geraldo Magela 1.000
+Ana Corso;Gilmar Machado 1.000
+Ana Corso;Jair Meneguelli 1.000
+Ana Corso;João Grandão 1.000
+Ana Corso;João Magno 1.000
+Ana Corso;Jorge Bittar 1.000
+Ana Corso;José Dirceu 1.000
+Ana Corso;José Genoíno 1.000
+Ana Corso;José Pimentel 1.000
+Ana Corso;Luci Choinacki 1.000
+Ana Corso;Luciano Zica 1.000
+Ana Corso;Luiz Eduardo Greenhalgh 1.000
+Ana Corso;Luiz Sérgio 1.000
+Ana Corso;Manoel Vitório 1.000
+Ana Corso;Maria do Carmo Lara 1.000
+Ana Corso;Nilmário Miranda 1.000
+Ana Corso;Nilson Mourão 1.000
+Ana Corso;Orlando Desconsi 1.000
+Ana Corso;Orlando Fantazzini 1.000
+Ana Corso;Padre Roque 1.000
+Ana Corso;Paulo Delgado 1.000
+Ana Corso;Paulo Rocha 1.000
+Ana Corso;Pedro Celso 1.000
+Ana Corso;Professor Luizinho 1.000
+Ana Corso;Ricardo Berzoini 1.000
+Ana Corso;Tilden Santiago 1.000
+Ana Corso;Virgílio Guimarães 1.000
+Ana Corso;Waldir Pires 1.000
+Ana Corso;Aloizio Mercadante 1.000
+Ana Corso;Clovis Ilgenfritz 1.000
+Angela Guadagnin;Arlindo Chinaglia 1.000
+Angela Guadagnin;Avenzoar Arruda 1.000
+Angela Guadagnin;Carlito Merss 1.000
+Angela Guadagnin;Carlos Santana 1.000
+Angela Guadagnin;Dr. Rosinha 1.000
+Angela Guadagnin;Fernando Ferro 1.000
+Angela Guadagnin;Gilmar Machado 1.000
+Angela Guadagnin;Henrique Fontana 1.000
+Angela Guadagnin;Iara Bernardi 1.000
+Angela Guadagnin;Jair Meneguelli 1.000
+Angela Guadagnin;Jaques Wagner 1.000
+Angela Guadagnin;João Grandão 1.000
+Angela Guadagnin;João Magno 1.000
+Angela Guadagnin;Jorge Bittar 1.000
+Angela Guadagnin;Luci Choinacki 1.000
+Angela Guadagnin;Luiz Alberto 1.000
+Angela Guadagnin;Luiz Eduardo Greenhalgh 1.000
+Angela Guadagnin;Luiz Sérgio 1.000
+Angela Guadagnin;Marcos Rolim 1.000
+Angela Guadagnin;Maria do Carmo Lara 1.000
+Angela Guadagnin;Nelson Pellegrino 1.000
+Angela Guadagnin;Nilson Mourão 1.000
+Angela Guadagnin;Paulo Paim 1.000
+Angela Guadagnin;Paulo Rocha 1.000
+Angela Guadagnin;Pedro Celso 1.000
+Angela Guadagnin;Professor Luizinho 1.000
+Angela Guadagnin;Telma de Souza 1.000
+Angela Guadagnin;Virgílio Guimarães 1.000
+Angela Guadagnin;Waldir Pires 1.000
+Angela Guadagnin;Walter Pinheiro 1.000
+Angela Guadagnin;Ary José Vanazzi 1.000
+Angela Guadagnin;Ben-Hur Ferreira 1.000
+Angela Guadagnin;Tarcisio Zimmermann 1.000
+Angela Guadagnin;Eduardo Jorge 1.000
+Angela Guadagnin;Roberto John 1.000
+Arlindo Chinaglia;Avenzoar Arruda 1.000
+Arlindo Chinaglia;Carlito Merss 1.000
+Arlindo Chinaglia;Carlos Santana 1.000
+Arlindo Chinaglia;Dr. Rosinha 1.000
+Arlindo Chinaglia;Esther Grossi 1.000
+Arlindo Chinaglia;Fernando Ferro 1.000
+Arlindo Chinaglia;Fioravante 1.000
+Arlindo Chinaglia;Geraldo Magela 1.000
+Arlindo Chinaglia;Gilmar Machado 1.000
+Arlindo Chinaglia;Henrique Fontana 1.000
+Arlindo Chinaglia;Iara Bernardi 1.000
+Arlindo Chinaglia;Jair Meneguelli 1.000
+Arlindo Chinaglia;Jaques Wagner 1.000
+Arlindo Chinaglia;João Coser 1.000
+Arlindo Chinaglia;João Grandão 1.000
+Arlindo Chinaglia;João Magno 1.000
+Arlindo Chinaglia;Jorge Bittar 1.000
+Arlindo Chinaglia;José Dirceu 1.000
+Arlindo Chinaglia;José Genoíno 1.000
+Arlindo Chinaglia;José Pimentel 1.000
+Arlindo Chinaglia;Luci Choinacki 1.000
+Arlindo Chinaglia;Luciano Zica 1.000
+Arlindo Chinaglia;Luiz Alberto 1.000
+Arlindo Chinaglia;Luiz Eduardo Greenhalgh 1.000
+Arlindo Chinaglia;Luiz Sérgio 1.000
+Arlindo Chinaglia;Manoel Vitório 1.000
+Arlindo Chinaglia;Marcos Rolim 1.000
+Arlindo Chinaglia;Maria do Carmo Lara 1.000
+Arlindo Chinaglia;Nelson Pellegrino 1.000
+Arlindo Chinaglia;Nilmário Miranda 1.000
+Arlindo Chinaglia;Nilson Mourão 1.000
+Arlindo Chinaglia;Orlando Desconsi 1.000
+Arlindo Chinaglia;Orlando Fantazzini 1.000
+Arlindo Chinaglia;Padre Roque 1.000
+Arlindo Chinaglia;Paulo Delgado 1.000
+Arlindo Chinaglia;Paulo Paim 1.000
+Arlindo Chinaglia;Paulo Rocha 1.000
+Arlindo Chinaglia;Pedro Celso 1.000
+Arlindo Chinaglia;Professor Luizinho 1.000
+Arlindo Chinaglia;Ricardo Berzoini 1.000
+Arlindo Chinaglia;Telma de Souza 1.000
+Arlindo Chinaglia;Tilden Santiago 1.000
+Arlindo Chinaglia;Virgílio Guimarães 1.000
+Arlindo Chinaglia;Waldir Pires 1.000
+Arlindo Chinaglia;Walter Pinheiro 1.000
+Arlindo Chinaglia;Ary José Vanazzi 1.000
+Arlindo Chinaglia;Ben-Hur Ferreira 1.000
+Arlindo Chinaglia;João Paulo 1.000
+Arlindo Chinaglia;Tarcisio Zimmermann 1.000
+Arlindo Chinaglia;Adão Pretto 1.000
+Arlindo Chinaglia;Eduardo Jorge 1.000
+Arlindo Chinaglia;Marcos Afonso 1.000
+Arlindo Chinaglia;Roberto John 1.000
+Arlindo Chinaglia;Aloizio Mercadante 1.000
+Arlindo Chinaglia;Clovis Ilgenfritz 1.000
+Avenzoar Arruda;Carlito Merss 1.000
+Avenzoar Arruda;Carlos Santana 1.000
+Avenzoar Arruda;Dr. Rosinha 1.000
+Avenzoar Arruda;Esther Grossi 1.000
+Avenzoar Arruda;Fernando Ferro 1.000
+Avenzoar Arruda;Fioravante 1.000
+Avenzoar Arruda;Geraldo Magela 1.000
+Avenzoar Arruda;Gilmar Machado 1.000
+Avenzoar Arruda;Henrique Fontana 1.000
+Avenzoar Arruda;Iara Bernardi 1.000
+Avenzoar Arruda;Jair Meneguelli 1.000
+Avenzoar Arruda;Jaques Wagner 1.000
+Avenzoar Arruda;João Coser 1.000
+Avenzoar Arruda;João Grandão 1.000
+Avenzoar Arruda;João Magno 1.000
+Avenzoar Arruda;Jorge Bittar 1.000
+Avenzoar Arruda;José Dirceu 1.000
+Avenzoar Arruda;José Genoíno 1.000
+Avenzoar Arruda;José Pimentel 1.000
+Avenzoar Arruda;Luci Choinacki 1.000
+Avenzoar Arruda;Luciano Zica 1.000
+Avenzoar Arruda;Luiz Alberto 1.000
+Avenzoar Arruda;Luiz Eduardo Greenhalgh 1.000
+Avenzoar Arruda;Luiz Sérgio 1.000
+Avenzoar Arruda;Manoel Vitório 1.000
+Avenzoar Arruda;Marcos Rolim 1.000
+Avenzoar Arruda;Maria do Carmo Lara 1.000
+Avenzoar Arruda;Nelson Pellegrino 1.000
+Avenzoar Arruda;Nilmário Miranda 1.000
+Avenzoar Arruda;Nilson Mourão 1.000
+Avenzoar Arruda;Orlando Desconsi 1.000
+Avenzoar Arruda;Orlando Fantazzini 1.000
+Avenzoar Arruda;Padre Roque 1.000
+Avenzoar Arruda;Paulo Delgado 1.000
+Avenzoar Arruda;Paulo Paim 1.000
+Avenzoar Arruda;Paulo Rocha 1.000
+Avenzoar Arruda;Pedro Celso 1.000
+Avenzoar Arruda;Professor Luizinho 1.000
+Avenzoar Arruda;Ricardo Berzoini 1.000
+Avenzoar Arruda;Telma de Souza 1.000
+Avenzoar Arruda;Tilden Santiago 1.000
+Avenzoar Arruda;Virgílio Guimarães 1.000
+Avenzoar Arruda;Waldir Pires 1.000
+Avenzoar Arruda;Walter Pinheiro 1.000
+Avenzoar Arruda;Ary José Vanazzi 1.000
+Avenzoar Arruda;Ben-Hur Ferreira 1.000
+Avenzoar Arruda;João Paulo 1.000
+Avenzoar Arruda;Tarcisio Zimmermann 1.000
+Avenzoar Arruda;Adão Pretto 1.000
+Avenzoar Arruda;Eduardo Jorge 1.000
+Avenzoar Arruda;Marcos Afonso 1.000
+Avenzoar Arruda;Roberto John 1.000
+Avenzoar Arruda;Aloizio Mercadante 1.000
+Avenzoar Arruda;Clovis Ilgenfritz 1.000
+Babá;Aloizio Mercadante 1.000
+Babá;Clovis Ilgenfritz 1.000
+Carlito Merss;Carlos Santana 1.000
+Carlito Merss;Dr. Rosinha 1.000
+Carlito Merss;Esther Grossi 1.000
+Carlito Merss;Fernando Ferro 1.000
+Carlito Merss;Fioravante 1.000
+Carlito Merss;Geraldo Magela 1.000
+Carlito Merss;Gilmar Machado 1.000
+Carlito Merss;Henrique Fontana 1.000
+Carlito Merss;Iara Bernardi 1.000
+Carlito Merss;Jair Meneguelli 1.000
+Carlito Merss;Jaques Wagner 1.000
+Carlito Merss;João Coser 1.000
+Carlito Merss;João Grandão 1.000
+Carlito Merss;João Magno 1.000
+Carlito Merss;Jorge Bittar 1.000
+Carlito Merss;José Dirceu 1.000
+Carlito Merss;José Genoíno 1.000
+Carlito Merss;José Pimentel 1.000
+Carlito Merss;Luci Choinacki 1.000
+Carlito Merss;Luciano Zica 1.000
+Carlito Merss;Luiz Alberto 1.000
+Carlito Merss;Luiz Eduardo Greenhalgh 1.000
+Carlito Merss;Luiz Sérgio 1.000
+Carlito Merss;Manoel Vitório 1.000
+Carlito Merss;Marcos Rolim 1.000
+Carlito Merss;Maria do Carmo Lara 1.000
+Carlito Merss;Nelson Pellegrino 1.000
+Carlito Merss;Nilmário Miranda 1.000
+Carlito Merss;Nilson Mourão 1.000
+Carlito Merss;Orlando Desconsi 1.000
+Carlito Merss;Orlando Fantazzini 1.000
+Carlito Merss;Padre Roque 1.000
+Carlito Merss;Paulo Delgado 1.000
+Carlito Merss;Paulo Paim 1.000
+Carlito Merss;Paulo Rocha 1.000
+Carlito Merss;Pedro Celso 1.000
+Carlito Merss;Professor Luizinho 1.000
+Carlito Merss;Ricardo Berzoini 1.000
+Carlito Merss;Telma de Souza 1.000
+Carlito Merss;Tilden Santiago 1.000
+Carlito Merss;Virgílio Guimarães 1.000
+Carlito Merss;Waldir Pires 1.000
+Carlito Merss;Walter Pinheiro 1.000
+Carlito Merss;Ary José Vanazzi 1.000
+Carlito Merss;Ben-Hur Ferreira 1.000
+Carlito Merss;João Paulo 1.000
+Carlito Merss;Tarcisio Zimmermann 1.000
+Carlito Merss;Adão Pretto 1.000
+Carlito Merss;Eduardo Jorge 1.000
+Carlito Merss;Marcos Afonso 1.000
+Carlito Merss;Roberto John 1.000
+Carlito Merss;Aloizio Mercadante 1.000
+Carlito Merss;Clovis Ilgenfritz 1.000
+Carlos Santana;Dr. Rosinha 1.000
+Carlos Santana;Esther Grossi 1.000
+Carlos Santana;Fernando Ferro 1.000
+Carlos Santana;Gilmar Machado 1.000
+Carlos Santana;Henrique Fontana 1.000
+Carlos Santana;Iara Bernardi 1.000
+Carlos Santana;Jair Meneguelli 1.000
+Carlos Santana;João Grandão 1.000
+Carlos Santana;João Magno 1.000
+Carlos Santana;Jorge Bittar 1.000
+Carlos Santana;José Dirceu 1.000
+Carlos Santana;Luci Choinacki 1.000
+Carlos Santana;Luiz Alberto 1.000
+Carlos Santana;Luiz Eduardo Greenhalgh 1.000
+Carlos Santana;Luiz Sérgio 1.000
+Carlos Santana;Maria do Carmo Lara 1.000
+Carlos Santana;Nelson Pellegrino 1.000
+Carlos Santana;Nilson Mourão 1.000
+Carlos Santana;Paulo Paim 1.000
+Carlos Santana;Paulo Rocha 1.000
+Carlos Santana;Pedro Celso 1.000
+Carlos Santana;Professor Luizinho 1.000
+Carlos Santana;Tilden Santiago 1.000
+Carlos Santana;Virgílio Guimarães 1.000
+Carlos Santana;Waldir Pires 1.000
+Carlos Santana;Walter Pinheiro 1.000
+Carlos Santana;Eduardo Jorge 1.000
+Carlos Santana;Roberto John 1.000
+Dr. Rosinha;Esther Grossi 1.000
+Dr. Rosinha;Fernando Ferro 1.000
+Dr. Rosinha;Fioravante 1.000
+Dr. Rosinha;Geraldo Magela 1.000
+Dr. Rosinha;Gilmar Machado 1.000
+Dr. Rosinha;Henrique Fontana 1.000
+Dr. Rosinha;Iara Bernardi 1.000
+Dr. Rosinha;Jair Meneguelli 1.000
+Dr. Rosinha;Jaques Wagner 1.000
+Dr. Rosinha;João Coser 1.000
+Dr. Rosinha;João Grandão 1.000
+Dr. Rosinha;João Magno 1.000
+Dr. Rosinha;Jorge Bittar 1.000
+Dr. Rosinha;José Dirceu 1.000
+Dr. Rosinha;José Genoíno 1.000
+Dr. Rosinha;José Pimentel 1.000
+Dr. Rosinha;Luci Choinacki 1.000
+Dr. Rosinha;Luciano Zica 1.000
+Dr. Rosinha;Luiz Alberto 1.000
+Dr. Rosinha;Luiz Eduardo Greenhalgh 1.000
+Dr. Rosinha;Luiz Sérgio 1.000
+Dr. Rosinha;Manoel Vitório 1.000
+Dr. Rosinha;Marcos Rolim 1.000
+Dr. Rosinha;Maria do Carmo Lara 1.000
+Dr. Rosinha;Nelson Pellegrino 1.000
+Dr. Rosinha;Nilmário Miranda 1.000
+Dr. Rosinha;Nilson Mourão 1.000
+Dr. Rosinha;Orlando Desconsi 1.000
+Dr. Rosinha;Orlando Fantazzini 1.000
+Dr. Rosinha;Padre Roque 1.000
+Dr. Rosinha;Paulo Delgado 1.000
+Dr. Rosinha;Paulo Paim 1.000
+Dr. Rosinha;Paulo Rocha 1.000
+Dr. Rosinha;Pedro Celso 1.000
+Dr. Rosinha;Professor Luizinho 1.000
+Dr. Rosinha;Ricardo Berzoini 1.000
+Dr. Rosinha;Telma de Souza 1.000
+Dr. Rosinha;Tilden Santiago 1.000
+Dr. Rosinha;Virgílio Guimarães 1.000
+Dr. Rosinha;Waldir Pires 1.000
+Dr. Rosinha;Walter Pinheiro 1.000
+Dr. Rosinha;Ary José Vanazzi 1.000
+Dr. Rosinha;Ben-Hur Ferreira 1.000
+Dr. Rosinha;João Paulo 1.000
+Dr. Rosinha;Tarcisio Zimmermann 1.000
+Dr. Rosinha;Adão Pretto 1.000
+Dr. Rosinha;Eduardo Jorge 1.000
+Dr. Rosinha;Marcos Afonso 1.000
+Dr. Rosinha;Roberto John 1.000
+Dr. Rosinha;Aloizio Mercadante 1.000
+Dr. Rosinha;Clovis Ilgenfritz 1.000
+Esther Grossi;Fernando Ferro 1.000
+Esther Grossi;Gilmar Machado 1.000
+Esther Grossi;Jair Meneguelli 1.000
+Esther Grossi;João Grandão 1.000
+Esther Grossi;João Magno 1.000
+Esther Grossi;Jorge Bittar 1.000
+Esther Grossi;José Dirceu 1.000
+Esther Grossi;Luci Choinacki 1.000
+Esther Grossi;Luiz Eduardo Greenhalgh 1.000
+Esther Grossi;Luiz Sérgio 1.000
+Esther Grossi;Manoel Vitório 1.000
+Esther Grossi;Maria do Carmo Lara 1.000
+Esther Grossi;Nilmário Miranda 1.000
+Esther Grossi;Nilson Mourão 1.000
+Esther Grossi;Orlando Desconsi 1.000
+Esther Grossi;Orlando Fantazzini 1.000
+Esther Grossi;Paulo Rocha 1.000
+Esther Grossi;Pedro Celso 1.000
+Esther Grossi;Professor Luizinho 1.000
+Esther Grossi;Tilden Santiago 1.000
+Esther Grossi;Virgílio Guimarães 1.000
+Esther Grossi;Waldir Pires 1.000
+Esther Grossi;Adão Pretto 1.000
+Esther Grossi;Eduardo Jorge 1.000
+Esther Grossi;Marcos Afonso 1.000
+Esther Grossi;Roberto John 1.000
+Esther Grossi;Aloizio Mercadante 1.000
+Esther Grossi;Clovis Ilgenfritz 1.000
+Fernando Ferro;Fioravante 1.000
+Fernando Ferro;Geraldo Magela 1.000
+Fernando Ferro;Gilmar Machado 1.000
+Fernando Ferro;Henrique Fontana 1.000
+Fernando Ferro;Iara Bernardi 1.000
+Fernando Ferro;Jair Meneguelli 1.000
+Fernando Ferro;Jaques Wagner 1.000
+Fernando Ferro;João Coser 1.000
+Fernando Ferro;João Grandão 1.000
+Fernando Ferro;João Magno 1.000
+Fernando Ferro;Jorge Bittar 1.000
+Fernando Ferro;José Dirceu 1.000
+Fernando Ferro;José Genoíno 1.000
+Fernando Ferro;José Pimentel 1.000
+Fernando Ferro;Luci Choinacki 1.000
+Fernando Ferro;Luciano Zica 1.000
+Fernando Ferro;Luiz Alberto 1.000
+Fernando Ferro;Luiz Eduardo Greenhalgh 1.000
+Fernando Ferro;Luiz Sérgio 1.000
+Fernando Ferro;Manoel Vitório 1.000
+Fernando Ferro;Marcos Rolim 1.000
+Fernando Ferro;Maria do Carmo Lara 1.000
+Fernando Ferro;Nelson Pellegrino 1.000
+Fernando Ferro;Nilmário Miranda 1.000
+Fernando Ferro;Nilson Mourão 1.000
+Fernando Ferro;Orlando Desconsi 1.000
+Fernando Ferro;Orlando Fantazzini 1.000
+Fernando Ferro;Padre Roque 1.000
+Fernando Ferro;Paulo Delgado 1.000
+Fernando Ferro;Paulo Paim 1.000
+Fernando Ferro;Paulo Rocha 1.000
+Fernando Ferro;Pedro Celso 1.000
+Fernando Ferro;Professor Luizinho 1.000
+Fernando Ferro;Ricardo Berzoini 1.000
+Fernando Ferro;Telma de Souza 1.000
+Fernando Ferro;Tilden Santiago 1.000
+Fernando Ferro;Virgílio Guimarães 1.000
+Fernando Ferro;Waldir Pires 1.000
+Fernando Ferro;Walter Pinheiro 1.000
+Fernando Ferro;Ary José Vanazzi 1.000
+Fernando Ferro;Ben-Hur Ferreira 1.000
+Fernando Ferro;João Paulo 1.000
+Fernando Ferro;Tarcisio Zimmermann 1.000
+Fernando Ferro;Adão Pretto 1.000
+Fernando Ferro;Eduardo Jorge 1.000
+Fernando Ferro;Marcos Afonso 1.000
+Fernando Ferro;Roberto John 1.000
+Fernando Ferro;Aloizio Mercadante 1.000
+Fernando Ferro;Clovis Ilgenfritz 1.000
+Fioravante;Geraldo Magela 1.000
+Fioravante;Gilmar Machado 1.000
+Fioravante;Jair Meneguelli 1.000
+Fioravante;Jaques Wagner 1.000
+Fioravante;João Grandão 1.000
+Fioravante;João Magno 1.000
+Fioravante;Jorge Bittar 1.000
+Fioravante;José Genoíno 1.000
+Fioravante;José Pimentel 1.000
+Fioravante;Luci Choinacki 1.000
+Fioravante;Luciano Zica 1.000
+Fioravante;Luiz Eduardo Greenhalgh 1.000
+Fioravante;Luiz Sérgio 1.000
+Fioravante;Manoel Vitório 1.000
+Fioravante;Maria do Carmo Lara 1.000
+Fioravante;Nilmário Miranda 1.000
+Fioravante;Nilson Mourão 1.000
+Fioravante;Orlando Desconsi 1.000
+Fioravante;Padre Roque 1.000
+Fioravante;Paulo Delgado 1.000
+Fioravante;Paulo Rocha 1.000
+Fioravante;Pedro Celso 1.000
+Fioravante;Professor Luizinho 1.000
+Fioravante;Ricardo Berzoini 1.000
+Fioravante;Virgílio Guimarães 1.000
+Fioravante;Waldir Pires 1.000
+Fioravante;Aloizio Mercadante 1.000
+Fioravante;Clovis Ilgenfritz 1.000
+Geraldo Magela;Gilmar Machado 1.000
+Geraldo Magela;Jair Meneguelli 1.000
+Geraldo Magela;Jaques Wagner 1.000
+Geraldo Magela;João Grandão 1.000
+Geraldo Magela;João Magno 1.000
+Geraldo Magela;Jorge Bittar 1.000
+Geraldo Magela;José Pimentel 1.000
+Geraldo Magela;Luci Choinacki 1.000
+Geraldo Magela;Luciano Zica 1.000
+Geraldo Magela;Luiz Eduardo Greenhalgh 1.000
+Geraldo Magela;Luiz Sérgio 1.000
+Geraldo Magela;Manoel Vitório 1.000
+Geraldo Magela;Marcos Rolim 1.000
+Geraldo Magela;Maria do Carmo Lara 1.000
+Geraldo Magela;Nilmário Miranda 1.000
+Geraldo Magela;Nilson Mourão 1.000
+Geraldo Magela;Orlando Desconsi 1.000
+Geraldo Magela;Padre Roque 1.000
+Geraldo Magela;Paulo Rocha 1.000
+Geraldo Magela;Pedro Celso 1.000
+Geraldo Magela;Professor Luizinho 1.000
+Geraldo Magela;Ricardo Berzoini 1.000
+Geraldo Magela;Telma de Souza 1.000
+Geraldo Magela;Virgílio Guimarães 1.000
+Geraldo Magela;Waldir Pires 1.000
+Geraldo Magela;Ben-Hur Ferreira 1.000
+Geraldo Magela;Aloizio Mercadante 1.000
+Geraldo Magela;Clovis Ilgenfritz 1.000
+Gilmar Machado;Henrique Fontana 1.000
+Gilmar Machado;Iara Bernardi 1.000
+Gilmar Machado;Jair Meneguelli 1.000
+Gilmar Machado;Jaques Wagner 1.000
+Gilmar Machado;João Coser 1.000
+Gilmar Machado;João Grandão 1.000
+Gilmar Machado;João Magno 1.000
+Gilmar Machado;Jorge Bittar 1.000
+Gilmar Machado;José Dirceu 1.000
+Gilmar Machado;José Genoíno 1.000
+Gilmar Machado;José Pimentel 1.000
+Gilmar Machado;Luci Choinacki 1.000
+Gilmar Machado;Luciano Zica 1.000
+Gilmar Machado;Luiz Alberto 1.000
+Gilmar Machado;Luiz Eduardo Greenhalgh 1.000
+Gilmar Machado;Luiz Sérgio 1.000
+Gilmar Machado;Manoel Vitório 1.000
+Gilmar Machado;Marcos Rolim 1.000
+Gilmar Machado;Maria do Carmo Lara 1.000
+Gilmar Machado;Nelson Pellegrino 1.000
+Gilmar Machado;Nilmário Miranda 1.000
+Gilmar Machado;Nilson Mourão 1.000
+Gilmar Machado;Orlando Desconsi 1.000
+Gilmar Machado;Orlando Fantazzini 1.000
+Gilmar Machado;Padre Roque 1.000
+Gilmar Machado;Paulo Delgado 1.000
+Gilmar Machado;Paulo Paim 1.000
+Gilmar Machado;Paulo Rocha 1.000
+Gilmar Machado;Pedro Celso 1.000
+Gilmar Machado;Professor Luizinho 1.000
+Gilmar Machado;Ricardo Berzoini 1.000
+Gilmar Machado;Telma de Souza 1.000
+Gilmar Machado;Tilden Santiago 1.000
+Gilmar Machado;Virgílio Guimarães 1.000
+Gilmar Machado;Waldir Pires 1.000
+Gilmar Machado;Walter Pinheiro 1.000
+Gilmar Machado;Ary José Vanazzi 1.000
+Gilmar Machado;Ben-Hur Ferreira 1.000
+Gilmar Machado;João Paulo 1.000
+Gilmar Machado;Tarcisio Zimmermann 1.000
+Gilmar Machado;Adão Pretto 1.000
+Gilmar Machado;Eduardo Jorge 1.000
+Gilmar Machado;Marcos Afonso 1.000
+Gilmar Machado;Roberto John 1.000
+Gilmar Machado;Aloizio Mercadante 1.000
+Gilmar Machado;Clovis Ilgenfritz 1.000
+Henrique Fontana;Iara Bernardi 1.000
+Henrique Fontana;Jair Meneguelli 1.000
+Henrique Fontana;Jaques Wagner 1.000
+Henrique Fontana;João Grandão 1.000
+Henrique Fontana;João Magno 1.000
+Henrique Fontana;Jorge Bittar 1.000
+Henrique Fontana;Luci Choinacki 1.000
+Henrique Fontana;Luiz Alberto 1.000
+Henrique Fontana;Luiz Eduardo Greenhalgh 1.000
+Henrique Fontana;Luiz Sérgio 1.000
+Henrique Fontana;Marcos Rolim 1.000
+Henrique Fontana;Maria do Carmo Lara 1.000
+Henrique Fontana;Nelson Pellegrino 1.000
+Henrique Fontana;Nilson Mourão 1.000
+Henrique Fontana;Paulo Paim 1.000
+Henrique Fontana;Paulo Rocha 1.000
+Henrique Fontana;Pedro Celso 1.000
+Henrique Fontana;Professor Luizinho 1.000
+Henrique Fontana;Telma de Souza 1.000
+Henrique Fontana;Virgílio Guimarães 1.000
+Henrique Fontana;Waldir Pires 1.000
+Henrique Fontana;Walter Pinheiro 1.000
+Henrique Fontana;Ary José Vanazzi 1.000
+Henrique Fontana;Ben-Hur Ferreira 1.000
+Henrique Fontana;Tarcisio Zimmermann 1.000
+Henrique Fontana;Eduardo Jorge 1.000
+Henrique Fontana;Roberto John 1.000
+Iara Bernardi;Jair Meneguelli 1.000
+Iara Bernardi;Jaques Wagner 1.000
+Iara Bernardi;João Grandão 1.000
+Iara Bernardi;João Magno 1.000
+Iara Bernardi;Jorge Bittar 1.000
+Iara Bernardi;Luci Choinacki 1.000
+Iara Bernardi;Luiz Alberto 1.000
+Iara Bernardi;Luiz Eduardo Greenhalgh 1.000
+Iara Bernardi;Luiz Sérgio 1.000
+Iara Bernardi;Marcos Rolim 1.000
+Iara Bernardi;Maria do Carmo Lara 1.000
+Iara Bernardi;Nelson Pellegrino 1.000
+Iara Bernardi;Nilson Mourão 1.000
+Iara Bernardi;Paulo Paim 1.000
+Iara Bernardi;Paulo Rocha 1.000
+Iara Bernardi;Pedro Celso 1.000
+Iara Bernardi;Professor Luizinho 1.000
+Iara Bernardi;Telma de Souza 1.000
+Iara Bernardi;Virgílio Guimarães 1.000
+Iara Bernardi;Waldir Pires 1.000
+Iara Bernardi;Walter Pinheiro 1.000
+Iara Bernardi;Ary José Vanazzi 1.000
+Iara Bernardi;Ben-Hur Ferreira 1.000
+Iara Bernardi;Tarcisio Zimmermann 1.000
+Iara Bernardi;Eduardo Jorge 1.000
+Iara Bernardi;Roberto John 1.000
+Jair Meneguelli;Jaques Wagner 1.000
+Jair Meneguelli;João Coser 1.000
+Jair Meneguelli;João Grandão 1.000
+Jair Meneguelli;João Magno 1.000
+Jair Meneguelli;Jorge Bittar 1.000
+Jair Meneguelli;José Dirceu 1.000
+Jair Meneguelli;José Genoíno 1.000
+Jair Meneguelli;José Pimentel 1.000
+Jair Meneguelli;Luci Choinacki 1.000
+Jair Meneguelli;Luciano Zica 1.000
+Jair Meneguelli;Luiz Alberto 1.000
+Jair Meneguelli;Luiz Eduardo Greenhalgh 1.000
+Jair Meneguelli;Luiz Sérgio 1.000
+Jair Meneguelli;Manoel Vitório 1.000
+Jair Meneguelli;Marcos Rolim 1.000
+Jair Meneguelli;Maria do Carmo Lara 1.000
+Jair Meneguelli;Nelson Pellegrino 1.000
+Jair Meneguelli;Nilmário Miranda 1.000
+Jair Meneguelli;Nilson Mourão 1.000
+Jair Meneguelli;Orlando Desconsi 1.000
+Jair Meneguelli;Orlando Fantazzini 1.000
+Jair Meneguelli;Padre Roque 1.000
+Jair Meneguelli;Paulo Delgado 1.000
+Jair Meneguelli;Paulo Paim 1.000
+Jair Meneguelli;Paulo Rocha 1.000
+Jair Meneguelli;Pedro Celso 1.000
+Jair Meneguelli;Professor Luizinho 1.000
+Jair Meneguelli;Ricardo Berzoini 1.000
+Jair Meneguelli;Telma de Souza 1.000
+Jair Meneguelli;Tilden Santiago 1.000
+Jair Meneguelli;Virgílio Guimarães 1.000
+Jair Meneguelli;Waldir Pires 1.000
+Jair Meneguelli;Walter Pinheiro 1.000
+Jair Meneguelli;Ary José Vanazzi 1.000
+Jair Meneguelli;Ben-Hur Ferreira 1.000
+Jair Meneguelli;João Paulo 1.000
+Jair Meneguelli;Tarcisio Zimmermann 1.000
+Jair Meneguelli;Adão Pretto 1.000
+Jair Meneguelli;Eduardo Jorge 1.000
+Jair Meneguelli;Marcos Afonso 1.000
+Jair Meneguelli;Roberto John 1.000
+Jair Meneguelli;Aloizio Mercadante 1.000
+Jair Meneguelli;Clovis Ilgenfritz 1.000
+Jaques Wagner;João Grandão 1.000
+Jaques Wagner;João Magno 1.000
+Jaques Wagner;Jorge Bittar 1.000
+Jaques Wagner;José Genoíno 1.000
+Jaques Wagner;José Pimentel 1.000
+Jaques Wagner;Luci Choinacki 1.000
+Jaques Wagner;Luciano Zica 1.000
+Jaques Wagner;Luiz Alberto 1.000
+Jaques Wagner;Luiz Eduardo Greenhalgh 1.000
+Jaques Wagner;Luiz Sérgio 1.000
+Jaques Wagner;Marcos Rolim 1.000
+Jaques Wagner;Maria do Carmo Lara 1.000
+Jaques Wagner;Nelson Pellegrino 1.000
+Jaques Wagner;Nilson Mourão 1.000
+Jaques Wagner;Padre Roque 1.000
+Jaques Wagner;Paulo Delgado 1.000
+Jaques Wagner;Paulo Paim 1.000
+Jaques Wagner;Paulo Rocha 1.000
+Jaques Wagner;Pedro Celso 1.000
+Jaques Wagner;Professor Luizinho 1.000
+Jaques Wagner;Ricardo Berzoini 1.000
+Jaques Wagner;Telma de Souza 1.000
+Jaques Wagner;Virgílio Guimarães 1.000
+Jaques Wagner;Waldir Pires 1.000
+Jaques Wagner;Walter Pinheiro 1.000
+Jaques Wagner;Wellington Dias 1.000
+João Coser;João Grandão 1.000
+João Coser;João Magno 1.000
+João Coser;Jorge Bittar 1.000
+João Coser;Luci Choinacki 1.000
+João Coser;Luiz Eduardo Greenhalgh 1.000
+João Coser;Luiz Sérgio 1.000
+João Coser;Márcio Matos 1.000
+João Coser;Maria do Carmo Lara 1.000
+João Coser;Nilson Mourão 1.000
+João Coser;Paulo Rocha 1.000
+João Coser;Pedro Celso 1.000
+João Coser;Professor Luizinho 1.000
+João Coser;Virgílio Guimarães 1.000
+João Coser;Waldir Pires 1.000
+João Coser;Ary José Vanazzi 1.000
+João Coser;Ben-Hur Ferreira 1.000
+João Coser;Tarcisio Zimmermann 1.000
+João Coser;Eduardo Jorge 1.000
+João Coser;Marcos Afonso 1.000
+João Coser;Roberto John 1.000
+João Coser;Aloizio Mercadante 1.000
+João Coser;Clovis Ilgenfritz 1.000
+João Grandão;João Magno 1.000
+João Grandão;Jorge Bittar 1.000
+João Grandão;José Dirceu 1.000
+João Grandão;José Genoíno 1.000
+João Grandão;José Pimentel 1.000
+João Grandão;Luci Choinacki 1.000
+João Grandão;Luciano Zica 1.000
+João Grandão;Luiz Alberto 1.000
+João Grandão;Luiz Eduardo Greenhalgh 1.000
+João Grandão;Luiz Sérgio 1.000
+João Grandão;Manoel Vitório 1.000
+João Grandão;Marcos Rolim 1.000
+João Grandão;Maria do Carmo Lara 1.000
+João Grandão;Nelson Pellegrino 1.000
+João Grandão;Nilmário Miranda 1.000
+João Grandão;Nilson Mourão 1.000
+João Grandão;Orlando Desconsi 1.000
+João Grandão;Orlando Fantazzini 1.000
+João Grandão;Padre Roque 1.000
+João Grandão;Paulo Delgado 1.000
+João Grandão;Paulo Paim 1.000
+João Grandão;Paulo Rocha 1.000
+João Grandão;Pedro Celso 1.000
+João Grandão;Professor Luizinho 1.000
+João Grandão;Ricardo Berzoini 1.000
+João Grandão;Telma de Souza 1.000
+João Grandão;Tilden Santiago 1.000
+João Grandão;Virgílio Guimarães 1.000
+João Grandão;Waldir Pires 1.000
+João Grandão;Walter Pinheiro 1.000
+João Grandão;Ary José Vanazzi 1.000
+João Grandão;Ben-Hur Ferreira 1.000
+João Grandão;João Paulo 1.000
+João Grandão;Tarcisio Zimmermann 1.000
+João Grandão;Adão Pretto 1.000
+João Grandão;Eduardo Jorge 1.000
+João Grandão;Marcos Afonso 1.000
+João Grandão;Roberto John 1.000
+João Grandão;Aloizio Mercadante 1.000
+João Grandão;Clovis Ilgenfritz 1.000
+João Magno;Jorge Bittar 1.000
+João Magno;José Dirceu 1.000
+João Magno;José Genoíno 1.000
+João Magno;José Pimentel 1.000
+João Magno;Luci Choinacki 1.000
+João Magno;Luciano Zica 1.000
+João Magno;Luiz Alberto 1.000
+João Magno;Luiz Eduardo Greenhalgh 1.000
+João Magno;Luiz Sérgio 1.000
+João Magno;Manoel Vitório 1.000
+João Magno;Marcos Rolim 1.000
+João Magno;Maria do Carmo Lara 1.000
+João Magno;Nelson Pellegrino 1.000
+João Magno;Nilmário Miranda 1.000
+João Magno;Nilson Mourão 1.000
+João Magno;Orlando Desconsi 1.000
+João Magno;Orlando Fantazzini 1.000
+João Magno;Padre Roque 1.000
+João Magno;Paulo Delgado 1.000
+João Magno;Paulo Paim 1.000
+João Magno;Paulo Rocha 1.000
+João Magno;Pedro Celso 1.000
+João Magno;Professor Luizinho 1.000
+João Magno;Ricardo Berzoini 1.000
+João Magno;Telma de Souza 1.000
+João Magno;Tilden Santiago 1.000
+João Magno;Virgílio Guimarães 1.000
+João Magno;Waldir Pires 1.000
+João Magno;Walter Pinheiro 1.000
+João Magno;Ary José Vanazzi 1.000
+João Magno;Ben-Hur Ferreira 1.000
+João Magno;João Paulo 1.000
+João Magno;Tarcisio Zimmermann 1.000
+João Magno;Adão Pretto 1.000
+João Magno;Eduardo Jorge 1.000
+João Magno;Marcos Afonso 1.000
+João Magno;Roberto John 1.000
+João Magno;Aloizio Mercadante 1.000
+João Magno;Clovis Ilgenfritz 1.000
+Jorge Bittar;José Dirceu 1.000
+Jorge Bittar;José Genoíno 1.000
+Jorge Bittar;José Pimentel 1.000
+Jorge Bittar;Luci Choinacki 1.000
+Jorge Bittar;Luciano Zica 1.000
+Jorge Bittar;Luiz Alberto 1.000
+Jorge Bittar;Luiz Eduardo Greenhalgh 1.000
+Jorge Bittar;Luiz Sérgio 1.000
+Jorge Bittar;Manoel Vitório 1.000
+Jorge Bittar;Marcos Rolim 1.000
+Jorge Bittar;Maria do Carmo Lara 1.000
+Jorge Bittar;Nelson Pellegrino 1.000
+Jorge Bittar;Nilmário Miranda 1.000
+Jorge Bittar;Nilson Mourão 1.000
+Jorge Bittar;Orlando Desconsi 1.000
+Jorge Bittar;Orlando Fantazzini 1.000
+Jorge Bittar;Padre Roque 1.000
+Jorge Bittar;Paulo Delgado 1.000
+Jorge Bittar;Paulo Paim 1.000
+Jorge Bittar;Paulo Rocha 1.000
+Jorge Bittar;Pedro Celso 1.000
+Jorge Bittar;Professor Luizinho 1.000
+Jorge Bittar;Ricardo Berzoini 1.000
+Jorge Bittar;Telma de Souza 1.000
+Jorge Bittar;Tilden Santiago 1.000
+Jorge Bittar;Virgílio Guimarães 1.000
+Jorge Bittar;Waldir Pires 1.000
+Jorge Bittar;Walter Pinheiro 1.000
+Jorge Bittar;Ary José Vanazzi 1.000
+Jorge Bittar;Ben-Hur Ferreira 1.000
+Jorge Bittar;João Paulo 1.000
+Jorge Bittar;Tarcisio Zimmermann 1.000
+Jorge Bittar;Adão Pretto 1.000
+Jorge Bittar;Eduardo Jorge 1.000
+Jorge Bittar;Marcos Afonso 1.000
+Jorge Bittar;Roberto John 1.000
+Jorge Bittar;Aloizio Mercadante 1.000
+Jorge Bittar;Clovis Ilgenfritz 1.000
+José Dirceu;Luci Choinacki 1.000
+José Dirceu;Luiz Eduardo Greenhalgh 1.000
+José Dirceu;Luiz Sérgio 1.000
+José Dirceu;Manoel Vitório 1.000
+José Dirceu;Maria do Carmo Lara 1.000
+José Dirceu;Nilmário Miranda 1.000
+José Dirceu;Nilson Mourão 1.000
+José Dirceu;Orlando Desconsi 1.000
+José Dirceu;Orlando Fantazzini 1.000
+José Dirceu;Paulo Rocha 1.000
+José Dirceu;Pedro Celso 1.000
+José Dirceu;Professor Luizinho 1.000
+José Dirceu;Tilden Santiago 1.000
+José Dirceu;Virgílio Guimarães 1.000
+José Dirceu;Waldir Pires 1.000
+José Dirceu;Adão Pretto 1.000
+José Dirceu;Eduardo Jorge 1.000
+José Dirceu;Marcos Afonso 1.000
+José Dirceu;Roberto John 1.000
+José Dirceu;Aloizio Mercadante 1.000
+José Dirceu;Clovis Ilgenfritz 1.000
+José Genoíno;Luci Choinacki 1.000
+José Genoíno;Luciano Zica 1.000
+José Genoíno;Luiz Eduardo Greenhalgh 1.000
+José Genoíno;Luiz Sérgio 1.000
+José Genoíno;Manoel Vitório 1.000
+José Genoíno;Maria do Carmo Lara 1.000
+José Genoíno;Nilmário Miranda 1.000
+José Genoíno;Nilson Mourão 1.000
+José Genoíno;Orlando Desconsi 1.000
+José Genoíno;Orlando Fantazzini 1.000
+José Genoíno;Padre Roque 1.000
+José Genoíno;Paulo Delgado 1.000
+José Genoíno;Paulo Rocha 1.000
+José Genoíno;Pedro Celso 1.000
+José Genoíno;Professor Luizinho 1.000
+José Genoíno;Virgílio Guimarães 1.000
+José Genoíno;Waldir Pires 1.000
+José Genoíno;Adão Pretto 1.000
+José Genoíno;Aloizio Mercadante 1.000
+José Genoíno;Clovis Ilgenfritz 1.000
+José Pimentel;Luci Choinacki 1.000
+José Pimentel;Luciano Zica 1.000
+José Pimentel;Luiz Eduardo Greenhalgh 1.000
+José Pimentel;Luiz Sérgio 1.000
+José Pimentel;Manoel Vitório 1.000
+José Pimentel;Marcos Rolim 1.000
+José Pimentel;Maria do Carmo Lara 1.000
+José Pimentel;Nilmário Miranda 1.000
+José Pimentel;Nilson Mourão 1.000
+José Pimentel;Orlando Desconsi 1.000
+José Pimentel;Padre Roque 1.000
+José Pimentel;Paulo Rocha 1.000
+José Pimentel;Pedro Celso 1.000
+José Pimentel;Professor Luizinho 1.000
+José Pimentel;Ricardo Berzoini 1.000
+José Pimentel;Telma de Souza 1.000
+José Pimentel;Virgílio Guimarães 1.000
+José Pimentel;Waldir Pires 1.000
+José Pimentel;Ben-Hur Ferreira 1.000
+José Pimentel;Aloizio Mercadante 1.000
+José Pimentel;Clovis Ilgenfritz 1.000
+Luci Choinacki;Luciano Zica 1.000
+Luci Choinacki;Luiz Alberto 1.000
+Luci Choinacki;Luiz Eduardo Greenhalgh 1.000
+Luci Choinacki;Luiz Sérgio 1.000
+Luci Choinacki;Manoel Vitório 1.000
+Luci Choinacki;Marcos Rolim 1.000
+Luci Choinacki;Maria do Carmo Lara 1.000
+Luci Choinacki;Nelson Pellegrino 1.000
+Luci Choinacki;Nilmário Miranda 1.000
+Luci Choinacki;Nilson Mourão 1.000
+Luci Choinacki;Orlando Desconsi 1.000
+Luci Choinacki;Orlando Fantazzini 1.000
+Luci Choinacki;Padre Roque 1.000
+Luci Choinacki;Paulo Delgado 1.000
+Luci Choinacki;Paulo Paim 1.000
+Luci Choinacki;Paulo Rocha 1.000
+Luci Choinacki;Pedro Celso 1.000
+Luci Choinacki;Professor Luizinho 1.000
+Luci Choinacki;Ricardo Berzoini 1.000
+Luci Choinacki;Telma de Souza 1.000
+Luci Choinacki;Tilden Santiago 1.000
+Luci Choinacki;Virgílio Guimarães 1.000
+Luci Choinacki;Waldir Pires 1.000
+Luci Choinacki;Walter Pinheiro 1.000
+Luci Choinacki;Ary José Vanazzi 1.000
+Luci Choinacki;Ben-Hur Ferreira 1.000
+Luci Choinacki;João Paulo 1.000
+Luci Choinacki;Tarcisio Zimmermann 1.000
+Luci Choinacki;Adão Pretto 1.000
+Luci Choinacki;Eduardo Jorge 1.000
+Luci Choinacki;Marcos Afonso 1.000
+Luci Choinacki;Roberto John 1.000
+Luci Choinacki;Aloizio Mercadante 1.000
+Luci Choinacki;Clovis Ilgenfritz 1.000
+Luciano Zica;Luiz Eduardo Greenhalgh 1.000
+Luciano Zica;Luiz Sérgio 1.000
+Luciano Zica;Manoel Vitório 1.000
+Luciano Zica;Maria do Carmo Lara 1.000
+Luciano Zica;Nilmário Miranda 1.000
+Luciano Zica;Nilson Mourão 1.000
+Luciano Zica;Orlando Desconsi 1.000
+Luciano Zica;Padre Roque 1.000
+Luciano Zica;Paulo Delgado 1.000
+Luciano Zica;Paulo Rocha 1.000
+Luciano Zica;Pedro Celso 1.000
+Luciano Zica;Professor Luizinho 1.000
+Luciano Zica;Ricardo Berzoini 1.000
+Luciano Zica;Virgílio Guimarães 1.000
+Luciano Zica;Waldir Pires 1.000
+Luciano Zica;Aloizio Mercadante 1.000
+Luciano Zica;Clovis Ilgenfritz 1.000
+Luiz Alberto;Luiz Eduardo Greenhalgh 1.000
+Luiz Alberto;Luiz Sérgio 1.000
+Luiz Alberto;Marcos Rolim 1.000
+Luiz Alberto;Maria do Carmo Lara 1.000
+Luiz Alberto;Nelson Pellegrino 1.000
+Luiz Alberto;Nilson Mourão 1.000
+Luiz Alberto;Paulo Paim 1.000
+Luiz Alberto;Paulo Rocha 1.000
+Luiz Alberto;Pedro Celso 1.000
+Luiz Alberto;Professor Luizinho 1.000
+Luiz Alberto;Telma de Souza 1.000
+Luiz Alberto;Virgílio Guimarães 1.000
+Luiz Alberto;Waldir Pires 1.000
+Luiz Alberto;Walter Pinheiro 1.000
+Luiz Alberto;Ary José Vanazzi 1.000
+Luiz Alberto;Ben-Hur Ferreira 1.000
+Luiz Alberto;Tarcisio Zimmermann 1.000
+Luiz Alberto;Eduardo Jorge 1.000
+Luiz Alberto;Roberto John 1.000
+Luiz Eduardo Greenhalgh;Luiz Sérgio 1.000
+Luiz Eduardo Greenhalgh;Manoel Vitório 1.000
+Luiz Eduardo Greenhalgh;Marcos Rolim 1.000
+Luiz Eduardo Greenhalgh;Maria do Carmo Lara 1.000
+Luiz Eduardo Greenhalgh;Nelson Pellegrino 1.000
+Luiz Eduardo Greenhalgh;Nilmário Miranda 1.000
+Luiz Eduardo Greenhalgh;Nilson Mourão 1.000
+Luiz Eduardo Greenhalgh;Orlando Desconsi 1.000
+Luiz Eduardo Greenhalgh;Orlando Fantazzini 1.000
+Luiz Eduardo Greenhalgh;Padre Roque 1.000
+Luiz Eduardo Greenhalgh;Paulo Delgado 1.000
+Luiz Eduardo Greenhalgh;Paulo Paim 1.000
+Luiz Eduardo Greenhalgh;Paulo Rocha 1.000
+Luiz Eduardo Greenhalgh;Pedro Celso 1.000
+Luiz Eduardo Greenhalgh;Professor Luizinho 1.000
+Luiz Eduardo Greenhalgh;Ricardo Berzoini 1.000
+Luiz Eduardo Greenhalgh;Telma de Souza 1.000
+Luiz Eduardo Greenhalgh;Tilden Santiago 1.000
+Luiz Eduardo Greenhalgh;Virgílio Guimarães 1.000
+Luiz Eduardo Greenhalgh;Waldir Pires 1.000
+Luiz Eduardo Greenhalgh;Walter Pinheiro 1.000
+Luiz Eduardo Greenhalgh;Ary José Vanazzi 1.000
+Luiz Eduardo Greenhalgh;Ben-Hur Ferreira 1.000
+Luiz Eduardo Greenhalgh;João Paulo 1.000
+Luiz Eduardo Greenhalgh;Tarcisio Zimmermann 1.000
+Luiz Eduardo Greenhalgh;Adão Pretto 1.000
+Luiz Eduardo Greenhalgh;Eduardo Jorge 1.000
+Luiz Eduardo Greenhalgh;Marcos Afonso 1.000
+Luiz Eduardo Greenhalgh;Roberto John 1.000
+Luiz Eduardo Greenhalgh;Aloizio Mercadante 1.000
+Luiz Eduardo Greenhalgh;Clovis Ilgenfritz 1.000
+Luiz Sérgio;Manoel Vitório 1.000
+Luiz Sérgio;Marcos Rolim 1.000
+Luiz Sérgio;Maria do Carmo Lara 1.000
+Luiz Sérgio;Nelson Pellegrino 1.000
+Luiz Sérgio;Nilmário Miranda 1.000
+Luiz Sérgio;Nilson Mourão 1.000
+Luiz Sérgio;Orlando Desconsi 1.000
+Luiz Sérgio;Orlando Fantazzini 1.000
+Luiz Sérgio;Padre Roque 1.000
+Luiz Sérgio;Paulo Delgado 1.000
+Luiz Sérgio;Paulo Paim 1.000
+Luiz Sérgio;Paulo Rocha 1.000
+Luiz Sérgio;Pedro Celso 1.000
+Luiz Sérgio;Professor Luizinho 1.000
+Luiz Sérgio;Ricardo Berzoini 1.000
+Luiz Sérgio;Telma de Souza 1.000
+Luiz Sérgio;Tilden Santiago 1.000
+Luiz Sérgio;Virgílio Guimarães 1.000
+Luiz Sérgio;Waldir Pires 1.000
+Luiz Sérgio;Walter Pinheiro 1.000
+Luiz Sérgio;Ary José Vanazzi 1.000
+Luiz Sérgio;Ben-Hur Ferreira 1.000
+Luiz Sérgio;João Paulo 1.000
+Luiz Sérgio;Tarcisio Zimmermann 1.000
+Luiz Sérgio;Adão Pretto 1.000
+Luiz Sérgio;Eduardo Jorge 1.000
+Luiz Sérgio;Marcos Afonso 1.000
+Luiz Sérgio;Roberto John 1.000
+Luiz Sérgio;Aloizio Mercadante 1.000
+Luiz Sérgio;Clovis Ilgenfritz 1.000
+Manoel Vitório;Maria do Carmo Lara 1.000
+Manoel Vitório;Nilmário Miranda 1.000
+Manoel Vitório;Nilson Mourão 1.000
+Manoel Vitório;Orlando Desconsi 1.000
+Manoel Vitório;Orlando Fantazzini 1.000
+Manoel Vitório;Padre Roque 1.000
+Manoel Vitório;Paulo Delgado 1.000
+Manoel Vitório;Paulo Rocha 1.000
+Manoel Vitório;Pedro Celso 1.000
+Manoel Vitório;Professor Luizinho 1.000
+Manoel Vitório;Ricardo Berzoini 1.000
+Manoel Vitório;Tilden Santiago 1.000
+Manoel Vitório;Virgílio Guimarães 1.000
+Manoel Vitório;Waldir Pires 1.000
+Manoel Vitório;Aloizio Mercadante 1.000
+Manoel Vitório;Clovis Ilgenfritz 1.000
+Márcio Matos;Ary José Vanazzi 1.000
+Márcio Matos;Ben-Hur Ferreira 1.000
+Márcio Matos;Tarcisio Zimmermann 1.000
+Márcio Matos;Eduardo Jorge 1.000
+Márcio Matos;Marcos Afonso 1.000
+Márcio Matos;Roberto John 1.000
+Márcio Matos;Aloizio Mercadante 1.000
+Márcio Matos;Clovis Ilgenfritz 1.000
+Marcos Rolim;Maria do Carmo Lara 1.000
+Marcos Rolim;Nelson Pellegrino 1.000
+Marcos Rolim;Nilson Mourão 1.000
+Marcos Rolim;Paulo Paim 1.000
+Marcos Rolim;Paulo Rocha 1.000
+Marcos Rolim;Pedro Celso 1.000
+Marcos Rolim;Professor Luizinho 1.000
+Marcos Rolim;Ricardo Berzoini 1.000
+Marcos Rolim;Telma de Souza 1.000
+Marcos Rolim;Virgílio Guimarães 1.000
+Marcos Rolim;Waldir Pires 1.000
+Marcos Rolim;Walter Pinheiro 1.000
+Marcos Rolim;Ben-Hur Ferreira 1.000
+Maria do Carmo Lara;Nelson Pellegrino 1.000
+Maria do Carmo Lara;Nilmário Miranda 1.000
+Maria do Carmo Lara;Nilson Mourão 1.000
+Maria do Carmo Lara;Orlando Desconsi 1.000
+Maria do Carmo Lara;Orlando Fantazzini 1.000
+Maria do Carmo Lara;Padre Roque 1.000
+Maria do Carmo Lara;Paulo Delgado 1.000
+Maria do Carmo Lara;Paulo Paim 1.000
+Maria do Carmo Lara;Paulo Rocha 1.000
+Maria do Carmo Lara;Pedro Celso 1.000
+Maria do Carmo Lara;Professor Luizinho 1.000
+Maria do Carmo Lara;Ricardo Berzoini 1.000
+Maria do Carmo Lara;Telma de Souza 1.000
+Maria do Carmo Lara;Tilden Santiago 1.000
+Maria do Carmo Lara;Virgílio Guimarães 1.000
+Maria do Carmo Lara;Waldir Pires 1.000
+Maria do Carmo Lara;Walter Pinheiro 1.000
+Maria do Carmo Lara;Ary José Vanazzi 1.000
+Maria do Carmo Lara;Ben-Hur Ferreira 1.000
+Maria do Carmo Lara;João Paulo 1.000
+Maria do Carmo Lara;Tarcisio Zimmermann 1.000
+Maria do Carmo Lara;Adão Pretto 1.000
+Maria do Carmo Lara;Eduardo Jorge 1.000
+Maria do Carmo Lara;Marcos Afonso 1.000
+Maria do Carmo Lara;Roberto John 1.000
+Maria do Carmo Lara;Aloizio Mercadante 1.000
+Maria do Carmo Lara;Clovis Ilgenfritz 1.000
+Milton Temer;Adão Pretto 1.000
+Milton Temer;Eduardo Jorge 1.000
+Milton Temer;Marcos Afonso 1.000
+Milton Temer;Roberto John 1.000
+Milton Temer;Aloizio Mercadante 1.000
+Milton Temer;Clovis Ilgenfritz 1.000
+Nelson Pellegrino;Nilson Mourão 1.000
+Nelson Pellegrino;Paulo Paim 1.000
+Nelson Pellegrino;Paulo Rocha 1.000
+Nelson Pellegrino;Pedro Celso 1.000
+Nelson Pellegrino;Professor Luizinho 1.000
+Nelson Pellegrino;Telma de Souza 1.000
+Nelson Pellegrino;Virgílio Guimarães 1.000
+Nelson Pellegrino;Waldir Pires 1.000
+Nelson Pellegrino;Walter Pinheiro 1.000
+Nelson Pellegrino;Ary José Vanazzi 1.000
+Nelson Pellegrino;Ben-Hur Ferreira 1.000
+Nelson Pellegrino;Tarcisio Zimmermann 1.000
+Nelson Pellegrino;Eduardo Jorge 1.000
+Nelson Pellegrino;Roberto John 1.000
+Nilmário Miranda;Nilson Mourão 1.000
+Nilmário Miranda;Orlando Desconsi 1.000
+Nilmário Miranda;Orlando Fantazzini 1.000
+Nilmário Miranda;Padre Roque 1.000
+Nilmário Miranda;Paulo Delgado 1.000
+Nilmário Miranda;Paulo Rocha 1.000
+Nilmário Miranda;Pedro Celso 1.000
+Nilmário Miranda;Professor Luizinho 1.000
+Nilmário Miranda;Ricardo Berzoini 1.000
+Nilmário Miranda;Tilden Santiago 1.000
+Nilmário Miranda;Virgílio Guimarães 1.000
+Nilmário Miranda;Waldir Pires 1.000
+Nilmário Miranda;Aloizio Mercadante 1.000
+Nilmário Miranda;Clovis Ilgenfritz 1.000
+Nilson Mourão;Orlando Desconsi 1.000
+Nilson Mourão;Orlando Fantazzini 1.000
+Nilson Mourão;Padre Roque 1.000
+Nilson Mourão;Paulo Delgado 1.000
+Nilson Mourão;Paulo Paim 1.000
+Nilson Mourão;Paulo Rocha 1.000
+Nilson Mourão;Pedro Celso 1.000
+Nilson Mourão;Professor Luizinho 1.000
+Nilson Mourão;Ricardo Berzoini 1.000
+Nilson Mourão;Telma de Souza 1.000
+Nilson Mourão;Tilden Santiago 1.000
+Nilson Mourão;Virgílio Guimarães 1.000
+Nilson Mourão;Waldir Pires 1.000
+Nilson Mourão;Walter Pinheiro 1.000
+Nilson Mourão;Ary José Vanazzi 1.000
+Nilson Mourão;Ben-Hur Ferreira 1.000
+Nilson Mourão;João Paulo 1.000
+Nilson Mourão;Tarcisio Zimmermann 1.000
+Nilson Mourão;Adão Pretto 1.000
+Nilson Mourão;Eduardo Jorge 1.000
+Nilson Mourão;Marcos Afonso 1.000
+Nilson Mourão;Roberto John 1.000
+Nilson Mourão;Aloizio Mercadante 1.000
+Nilson Mourão;Clovis Ilgenfritz 1.000
+Orlando Desconsi;Orlando Fantazzini 1.000
+Orlando Desconsi;Padre Roque 1.000
+Orlando Desconsi;Paulo Delgado 1.000
+Orlando Desconsi;Paulo Rocha 1.000
+Orlando Desconsi;Pedro Celso 1.000
+Orlando Desconsi;Professor Luizinho 1.000
+Orlando Desconsi;Ricardo Berzoini 1.000
+Orlando Desconsi;Tilden Santiago 1.000
+Orlando Desconsi;Virgílio Guimarães 1.000
+Orlando Desconsi;Waldir Pires 1.000
+Orlando Desconsi;Aloizio Mercadante 1.000
+Orlando Desconsi;Clovis Ilgenfritz 1.000
+Orlando Fantazzini;Paulo Delgado 1.000
+Orlando Fantazzini;Paulo Rocha 1.000
+Orlando Fantazzini;Pedro Celso 1.000
+Orlando Fantazzini;Professor Luizinho 1.000
+Orlando Fantazzini;Tilden Santiago 1.000
+Orlando Fantazzini;Virgílio Guimarães 1.000
+Orlando Fantazzini;Waldir Pires 1.000
+Orlando Fantazzini;Adão Pretto 1.000
+Orlando Fantazzini;Aloizio Mercadante 1.000
+Orlando Fantazzini;Clovis Ilgenfritz 1.000
+Padre Roque;Paulo Delgado 1.000
+Padre Roque;Paulo Rocha 1.000
+Padre Roque;Pedro Celso 1.000
+Padre Roque;Professor Luizinho 1.000
+Padre Roque;Ricardo Berzoini 1.000
+Padre Roque;Virgílio Guimarães 1.000
+Padre Roque;Waldir Pires 1.000
+Padre Roque;Aloizio Mercadante 1.000
+Padre Roque;Clovis Ilgenfritz 1.000
+Paulo Delgado;Paulo Rocha 1.000
+Paulo Delgado;Pedro Celso 1.000
+Paulo Delgado;Professor Luizinho 1.000
+Paulo Delgado;Virgílio Guimarães 1.000
+Paulo Delgado;Waldir Pires 1.000
+Paulo Delgado;Adão Pretto 1.000
+Paulo Delgado;Aloizio Mercadante 1.000
+Paulo Delgado;Clovis Ilgenfritz 1.000
+Paulo Paim;Paulo Rocha 1.000
+Paulo Paim;Pedro Celso 1.000
+Paulo Paim;Professor Luizinho 1.000
+Paulo Paim;Telma de Souza 1.000
+Paulo Paim;Virgílio Guimarães 1.000
+Paulo Paim;Waldir Pires 1.000
+Paulo Paim;Walter Pinheiro 1.000
+Paulo Paim;Ary José Vanazzi 1.000
+Paulo Paim;Ben-Hur Ferreira 1.000
+Paulo Paim;Tarcisio Zimmermann 1.000
+Paulo Paim;Eduardo Jorge 1.000
+Paulo Paim;Roberto John 1.000
+Paulo Rocha;Pedro Celso 1.000
+Paulo Rocha;Professor Luizinho 1.000
+Paulo Rocha;Ricardo Berzoini 1.000
+Paulo Rocha;Telma de Souza 1.000
+Paulo Rocha;Tilden Santiago 1.000
+Paulo Rocha;Virgílio Guimarães 1.000
+Paulo Rocha;Waldir Pires 1.000
+Paulo Rocha;Walter Pinheiro 1.000
+Paulo Rocha;Ary José Vanazzi 1.000
+Paulo Rocha;Ben-Hur Ferreira 1.000
+Paulo Rocha;João Paulo 1.000
+Paulo Rocha;Tarcisio Zimmermann 1.000
+Paulo Rocha;Adão Pretto 1.000
+Paulo Rocha;Eduardo Jorge 1.000
+Paulo Rocha;Marcos Afonso 1.000
+Paulo Rocha;Roberto John 1.000
+Paulo Rocha;Aloizio Mercadante 1.000
+Paulo Rocha;Clovis Ilgenfritz 1.000
+Pedro Celso;Professor Luizinho 1.000
+Pedro Celso;Ricardo Berzoini 1.000
+Pedro Celso;Telma de Souza 1.000
+Pedro Celso;Tilden Santiago 1.000
+Pedro Celso;Virgílio Guimarães 1.000
+Pedro Celso;Waldir Pires 1.000
+Pedro Celso;Walter Pinheiro 1.000
+Pedro Celso;Ary José Vanazzi 1.000
+Pedro Celso;Ben-Hur Ferreira 1.000
+Pedro Celso;João Paulo 1.000
+Pedro Celso;Tarcisio Zimmermann 1.000
+Pedro Celso;Adão Pretto 1.000
+Pedro Celso;Eduardo Jorge 1.000
+Pedro Celso;Marcos Afonso 1.000
+Pedro Celso;Roberto John 1.000
+Pedro Celso;Aloizio Mercadante 1.000
+Pedro Celso;Clovis Ilgenfritz 1.000
+Professor Luizinho;Ricardo Berzoini 1.000
+Professor Luizinho;Telma de Souza 1.000
+Professor Luizinho;Tilden Santiago 1.000
+Professor Luizinho;Virgílio Guimarães 1.000
+Professor Luizinho;Waldir Pires 1.000
+Professor Luizinho;Walter Pinheiro 1.000
+Professor Luizinho;Ary José Vanazzi 1.000
+Professor Luizinho;Ben-Hur Ferreira 1.000
+Professor Luizinho;João Paulo 1.000
+Professor Luizinho;Tarcisio Zimmermann 1.000
+Professor Luizinho;Adão Pretto 1.000
+Professor Luizinho;Eduardo Jorge 1.000
+Professor Luizinho;Marcos Afonso 1.000
+Professor Luizinho;Roberto John 1.000
+Professor Luizinho;Aloizio Mercadante 1.000
+Professor Luizinho;Clovis Ilgenfritz 1.000
+Ricardo Berzoini;Telma de Souza 1.000
+Ricardo Berzoini;Virgílio Guimarães 1.000
+Ricardo Berzoini;Waldir Pires 1.000
+Ricardo Berzoini;Ben-Hur Ferreira 1.000
+Ricardo Berzoini;Aloizio Mercadante 1.000
+Ricardo Berzoini;Clovis Ilgenfritz 1.000
+Telma de Souza;Virgílio Guimarães 1.000
+Telma de Souza;Waldir Pires 1.000
+Telma de Souza;Walter Pinheiro 1.000
+Telma de Souza;Ben-Hur Ferreira 1.000
+Tilden Santiago;Virgílio Guimarães 1.000
+Tilden Santiago;Waldir Pires 1.000
+Tilden Santiago;Adão Pretto 1.000
+Tilden Santiago;Eduardo Jorge 1.000
+Tilden Santiago;Marcos Afonso 1.000
+Tilden Santiago;Roberto John 1.000
+Tilden Santiago;Aloizio Mercadante 1.000
+Tilden Santiago;Clovis Ilgenfritz 1.000
+Virgílio Guimarães;Waldir Pires 1.000
+Virgílio Guimarães;Walter Pinheiro 1.000
+Virgílio Guimarães;Ary José Vanazzi 1.000
+Virgílio Guimarães;Ben-Hur Ferreira 1.000
+Virgílio Guimarães;João Paulo 1.000
+Virgílio Guimarães;Tarcisio Zimmermann 1.000
+Virgílio Guimarães;Adão Pretto 1.000
+Virgílio Guimarães;Eduardo Jorge 1.000
+Virgílio Guimarães;Marcos Afonso 1.000
+Virgílio Guimarães;Roberto John 1.000
+Virgílio Guimarães;Aloizio Mercadante 1.000
+Virgílio Guimarães;Clovis Ilgenfritz 1.000
+Waldir Pires;Walter Pinheiro 1.000
+Waldir Pires;Ary José Vanazzi 1.000
+Waldir Pires;Ben-Hur Ferreira 1.000
+Waldir Pires;João Paulo 1.000
+Waldir Pires;Tarcisio Zimmermann 1.000
+Waldir Pires;Adão Pretto 1.000
+Waldir Pires;Eduardo Jorge 1.000
+Waldir Pires;Marcos Afonso 1.000
+Waldir Pires;Roberto John 1.000
+Waldir Pires;Aloizio Mercadante 1.000
+Waldir Pires;Clovis Ilgenfritz 1.000
+Walter Pinheiro;Ary José Vanazzi 1.000
+Walter Pinheiro;Ben-Hur Ferreira 1.000
+Walter Pinheiro;Tarcisio Zimmermann 1.000
+Walter Pinheiro;Eduardo Jorge 1.000
+Walter Pinheiro;Roberto John 1.000
+Ary José Vanazzi;Ben-Hur Ferreira 1.000
+Ary José Vanazzi;João Paulo 1.000
+Ary José Vanazzi;Tarcisio Zimmermann 1.000
+Ary José Vanazzi;Eduardo Jorge 1.000
+Ary José Vanazzi;Roberto John 1.000
+Ben-Hur Ferreira;João Paulo 1.000
+Ben-Hur Ferreira;Tarcisio Zimmermann 1.000
+João Paulo;Tarcisio Zimmermann 1.000
+João Paulo;Adão Pretto 1.000
+João Paulo;Eduardo Jorge 1.000
+João Paulo;Marcos Afonso 1.000
+João Paulo;Roberto John 1.000
+João Paulo;Aloizio Mercadante 1.000
+João Paulo;Clovis Ilgenfritz 1.000
+Tarcisio Zimmermann;Eduardo Jorge 1.000
+Tarcisio Zimmermann;Roberto John 1.000
+Adão Pretto;Aloizio Mercadante 1.000
+Adão Pretto;Clovis Ilgenfritz 1.000
+Eduardo Jorge;Marcos Afonso 1.000
+Eduardo Jorge;Roberto John 1.000
+Marcos Afonso;Roberto John 1.000
+Marcos Afonso;Aloizio Mercadante 1.000
+Marcos Afonso;Clovis Ilgenfritz 1.000
+Aloizio Mercadante;Clovis Ilgenfritz 1.000
